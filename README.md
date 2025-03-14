@@ -2,7 +2,7 @@
 
 This Project is a Thesis RMUTL 
 
-by Pimmawat Saita
+by Praphan kangkun
 
 Computer Engineering 
 
