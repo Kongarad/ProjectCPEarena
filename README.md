@@ -23,6 +23,4 @@ npm run dev
 
 
 
-## License
 
-[Pimmawat Saita](https://github.com/Pimmawat)
