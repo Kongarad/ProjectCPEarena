@@ -12,7 +12,7 @@ Use the package manager [node.js](https://nodejs.org/en) to install nodejs
 and [vite.js](https://vite.dev/) to install vite.js
 
 ```bash
-git clone https://github.com/Pimmawat/codingProject.git
+https://github.com/Kongarad/ProjectCPEarena.git
 cd server
 npm install
 npm run dev 
